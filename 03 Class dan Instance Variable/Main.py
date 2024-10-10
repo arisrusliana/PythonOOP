@@ -1,7 +1,7 @@
 class Hero: #template
     # class variable / static variable
     jumlah = 0
-    def __init__(self,inputName,inputPower,inputHealth,inputArmor):
+    def __init__(self, inputName, inputPower, inputHealth, inputArmor):
         # instance variable
         self.name = inputName
         self.power = inputPower
