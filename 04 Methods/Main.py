@@ -37,3 +37,4 @@ print("Health " + hero1.name + " menjadi " + str(hero1.health))
 # display method dengan return
 print("Health " + hero1.name + " menjadi " + str(hero1.getHealth()))
 
+

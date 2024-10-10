@@ -46,3 +46,4 @@ hero2.serang(hero1)
 print("\n")
 hero2.serang(hero1)
 
+
